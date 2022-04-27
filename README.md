@@ -1,7 +1,7 @@
 Snowpark DataFrame Demo
 =======================
 
-Create a complex SQL query using Snowpark DataFrame objects and contextual function calls, as described in [my Medium post here](https://medium.com/p/579cf3d9126d/edit).
+Create a complex SQL query using Snowpark DataFrame objects and contextual function calls, as described in [my Medium post here](https://medium.com/snowflake/how-to-create-a-complex-query-with-snowpark-dataframe-579cf3d9126d).
 
 ![results](/images/results.png)
 
